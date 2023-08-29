@@ -10,11 +10,11 @@
 ### composer 安装
 
 ```
-composer require de-memory/dcat-lock-screen
+composer require de-memory/lock-screen
 ```
 
 ### 后台发布
 
 ```
-开发工具=》扩展=》de-memory.dcat-lock-screen=》启用
+开发工具=》扩展=》de-memory.lock-screen=》启用
 ```
