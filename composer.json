@@ -1,7 +1,7 @@
 {
     "name": "de-memory/lock-screen",
     "alias": "",
-    "description": "Description...",
+    "description": "Dcat Admin 锁定屏幕",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
     "homepage": "https://github.com/de-memory/lock-screen",
